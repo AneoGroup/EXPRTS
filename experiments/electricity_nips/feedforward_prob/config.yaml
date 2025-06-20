@@ -1,0 +1,28 @@
+context_length: 168
+data_source: gluon
+datadir: ./data/electricity_nips/
+dataset: electricity_nips
+model_args:
+  context_length: 168
+  hidden_dimensions:
+  - 100
+  - 100
+  prediction_length: 24
+  scaler: standard
+model_name: feedforwardprob
+path: ./experiments/electricity_nips/feedforward_prob
+prediction_length: 24
+seed: 0
+sp: 24
+trainer_args:
+  allow_padded_sampling: false
+  batch_size: 512
+  context_length: 168
+  dataset: electricity_nips
+  epochs: 100
+  num_batches_per_epoch: 50
+  num_batches_to_write: 0
+  num_validation_windows: 7
+  patience: 10
+  prediction_length: 24
+  use_val_data: true

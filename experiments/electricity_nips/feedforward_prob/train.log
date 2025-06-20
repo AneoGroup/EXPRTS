@@ -1,0 +1,104 @@
+12/13/2024 02:45:06 Creating train, validation and test splits
+12/13/2024 02:45:06 using dataset already processed in path /home/hakon/.mxnet/gluon-ts/datasets/electricity_nips.
+12/13/2024 02:45:06 Starting training of FeedForwardProb
+12/13/2024 02:45:12 Epoch 1, time spent: 6.2, average training loss: 0.8188021886348724
+12/13/2024 02:45:18 Epoch 2, time spent: 5.8, average training loss: 0.4685308611392975
+12/13/2024 02:45:24 Epoch 3, time spent: 5.8, average training loss: 0.38224470674991606
+12/13/2024 02:45:30 Epoch 4, time spent: 5.6, average training loss: 0.3600897264480591
+12/13/2024 02:45:36 Epoch 5, time spent: 6.0, average training loss: 0.32769167721271514, validation scores: [MASE: 1.0655235052108765, MSE: 272811.03125, sMAPE: 0.1214536726474762]
+12/13/2024 02:45:41 Epoch 6, time spent: 5.5, average training loss: 0.3244296181201935
+12/13/2024 02:45:47 Epoch 7, time spent: 5.5, average training loss: 0.3181369751691818
+12/13/2024 02:45:52 Epoch 8, time spent: 5.5, average training loss: 0.3073998013138771
+12/13/2024 02:45:58 Epoch 9, time spent: 5.6, average training loss: 0.29723973721265795
+12/13/2024 02:46:04 Epoch 10, time spent: 6.0, average training loss: 0.2938933426141739, validation scores: [MASE: 1.0319615602493286, MSE: 234425.859375, sMAPE: 0.1189928948879242]
+12/13/2024 02:46:09 Epoch 11, time spent: 5.5, average training loss: 0.29347088605165483
+12/13/2024 02:46:15 Epoch 12, time spent: 5.5, average training loss: 0.2836511468887329
+12/13/2024 02:46:20 Epoch 13, time spent: 5.5, average training loss: 0.2762495911121368
+12/13/2024 02:46:26 Epoch 14, time spent: 5.5, average training loss: 0.27529077529907225
+12/13/2024 02:46:32 Epoch 15, time spent: 6.0, average training loss: 0.26327488720417025, validation scores: [MASE: 1.039340615272522, MSE: 269985.75, sMAPE: 0.11951682716608047]
+12/13/2024 02:46:37 Epoch 16, time spent: 5.5, average training loss: 0.2594287800788879
+12/13/2024 02:46:43 Epoch 17, time spent: 5.5, average training loss: 0.2608403071761131
+12/13/2024 02:46:48 Epoch 18, time spent: 5.6, average training loss: 0.2571934822201729
+12/13/2024 02:46:54 Epoch 19, time spent: 5.5, average training loss: 0.2674167564511299
+12/13/2024 02:47:00 Epoch 20, time spent: 6.0, average training loss: 0.25015640079975127, validation scores: [MASE: 1.0283859968185425, MSE: 274955.84375, sMAPE: 0.11741375923156738]
+12/13/2024 02:47:06 Epoch 21, time spent: 5.5, average training loss: 0.25135501950979233
+12/13/2024 02:47:11 Epoch 22, time spent: 5.5, average training loss: 0.24852272033691405
+12/13/2024 02:47:17 Epoch 23, time spent: 5.6, average training loss: 0.23632863491773606
+12/13/2024 02:47:22 Epoch 24, time spent: 5.5, average training loss: 0.2531315475702286
+12/13/2024 02:47:28 Epoch 25, time spent: 6.0, average training loss: 0.2400767296552658, validation scores: [MASE: 1.0204925537109375, MSE: 271157.53125, sMAPE: 0.1164909079670906]
+12/13/2024 02:47:34 Epoch 26, time spent: 5.5, average training loss: 0.2377711793780327
+12/13/2024 02:47:39 Epoch 27, time spent: 5.6, average training loss: 0.24146195709705354
+12/13/2024 02:47:45 Epoch 28, time spent: 5.6, average training loss: 0.23973122715950013
+12/13/2024 02:47:50 Epoch 29, time spent: 5.6, average training loss: 0.2361556375026703
+12/13/2024 02:47:57 Epoch 30, time spent: 6.0, average training loss: 0.2246890676021576, validation scores: [MASE: 1.0022473335266113, MSE: 237394.078125, sMAPE: 0.11602968722581863]
+12/13/2024 02:48:02 Epoch 31, time spent: 5.6, average training loss: 0.22684468001127242
+12/13/2024 02:48:08 Epoch 32, time spent: 5.5, average training loss: 0.2235620066523552
+12/13/2024 02:48:13 Epoch 33, time spent: 5.5, average training loss: 0.22308339834213256
+12/13/2024 02:48:19 Epoch 34, time spent: 5.6, average training loss: 0.22005332738161087
+12/13/2024 02:48:25 Epoch 35, time spent: 6.0, average training loss: 0.22593800276517867, validation scores: [MASE: 1.0017666816711426, MSE: 262344.34375, sMAPE: 0.11416643857955933]
+12/13/2024 02:48:30 Epoch 36, time spent: 5.6, average training loss: 0.2231532648205757
+12/13/2024 02:48:36 Epoch 37, time spent: 5.5, average training loss: 0.2249426856637001
+12/13/2024 02:48:41 Epoch 38, time spent: 5.6, average training loss: 0.2120843580365181
+12/13/2024 02:48:47 Epoch 39, time spent: 5.6, average training loss: 0.21319255024194717
+12/13/2024 02:48:53 Epoch 40, time spent: 6.0, average training loss: 0.2124825456738472, validation scores: [MASE: 1.0098000764846802, MSE: 253197.515625, sMAPE: 0.11565496772527695]
+12/13/2024 02:48:59 Epoch 41, time spent: 5.5, average training loss: 0.22342184990644454
+12/13/2024 02:49:04 Epoch 42, time spent: 5.5, average training loss: 0.20911711633205413
+12/13/2024 02:49:10 Epoch 43, time spent: 5.5, average training loss: 0.21254630982875825
+12/13/2024 02:49:15 Epoch 44, time spent: 5.6, average training loss: 0.205597126185894
+12/13/2024 02:49:21 Epoch 45, time spent: 6.0, average training loss: 0.20556750804185867, validation scores: [MASE: 1.0003520250320435, MSE: 258602.625, sMAPE: 0.11380809545516968]
+12/13/2024 02:49:27 Epoch 46, time spent: 5.5, average training loss: 0.20667943835258484
+12/13/2024 02:49:32 Epoch 47, time spent: 5.5, average training loss: 0.21560859501361848
+12/13/2024 02:49:38 Epoch 48, time spent: 5.6, average training loss: 0.2016200304031372
+12/13/2024 02:49:43 Epoch 49, time spent: 5.5, average training loss: 0.20036352276802064
+12/13/2024 02:49:49 Epoch 50, time spent: 6.0, average training loss: 0.20386155992746352, validation scores: [MASE: 0.9890806078910828, MSE: 238873.6875, sMAPE: 0.11411869525909424]
+12/13/2024 02:49:55 Epoch 51, time spent: 5.6, average training loss: 0.1966996470093727
+12/13/2024 02:50:00 Epoch 52, time spent: 5.6, average training loss: 0.20094159841537476
+12/13/2024 02:50:06 Epoch 53, time spent: 5.6, average training loss: 0.20272395730018616
+12/13/2024 02:50:12 Epoch 54, time spent: 5.6, average training loss: 0.19686633974313736
+12/13/2024 02:50:18 Epoch 55, time spent: 6.0, average training loss: 0.1953251302242279, validation scores: [MASE: 0.993769109249115, MSE: 243768.703125, sMAPE: 0.11439961194992065]
+12/13/2024 02:50:23 Epoch 56, time spent: 5.5, average training loss: 0.19563638418912888
+12/13/2024 02:50:29 Epoch 57, time spent: 5.6, average training loss: 0.1965031296014786
+12/13/2024 02:50:34 Epoch 58, time spent: 5.6, average training loss: 0.19379192754626273
+12/13/2024 02:50:40 Epoch 59, time spent: 5.6, average training loss: 0.19294381380081177
+12/13/2024 02:50:46 Epoch 60, time spent: 6.0, average training loss: 0.19353026419878006, validation scores: [MASE: 0.9876412749290466, MSE: 267012.21875, sMAPE: 0.11288038641214371]
+12/13/2024 02:50:51 Epoch 61, time spent: 5.6, average training loss: 0.19429886609315872
+12/13/2024 02:50:57 Epoch 62, time spent: 5.5, average training loss: 0.189732064306736
+12/13/2024 02:51:03 Epoch 63, time spent: 5.6, average training loss: 0.1954555806517601
+12/13/2024 02:51:08 Epoch 64, time spent: 5.6, average training loss: 0.20051216304302216
+12/13/2024 02:51:14 Epoch 65, time spent: 6.0, average training loss: 0.1970805859565735, validation scores: [MASE: 0.9992883205413818, MSE: 258872.046875, sMAPE: 0.11553259938955307]
+12/13/2024 02:51:20 Epoch 66, time spent: 5.6, average training loss: 0.19512280315160752
+12/13/2024 02:51:25 Epoch 67, time spent: 5.5, average training loss: 0.19956172227859498
+12/13/2024 02:51:31 Epoch 68, time spent: 5.5, average training loss: 0.1853531877696514
+12/13/2024 02:51:36 Epoch 69, time spent: 5.5, average training loss: 0.18998719096183778
+12/13/2024 02:51:42 Epoch 70, time spent: 6.0, average training loss: 0.19299867063760756, validation scores: [MASE: 0.9818275570869446, MSE: 252040.75, sMAPE: 0.11279033869504929]
+12/13/2024 02:51:48 Epoch 71, time spent: 5.5, average training loss: 0.194011567234993
+12/13/2024 02:51:53 Epoch 72, time spent: 5.6, average training loss: 0.19132922798395158
+12/13/2024 02:51:59 Epoch 73, time spent: 5.5, average training loss: 0.19074962705373763
+12/13/2024 02:52:05 Epoch 74, time spent: 5.6, average training loss: 0.1895708993077278
+12/13/2024 02:52:11 Epoch 75, time spent: 6.0, average training loss: 0.19027509570121764, validation scores: [MASE: 1.0053287744522095, MSE: 274237.96875, sMAPE: 0.11549634486436844]
+12/13/2024 02:52:16 Epoch 76, time spent: 5.5, average training loss: 0.17873656377196312
+12/13/2024 02:52:22 Epoch 77, time spent: 5.5, average training loss: 0.1815038138628006
+12/13/2024 02:52:27 Epoch 78, time spent: 5.6, average training loss: 0.18876071959733964
+12/13/2024 02:52:33 Epoch 79, time spent: 5.5, average training loss: 0.1915701648592949
+12/13/2024 02:52:39 Epoch 80, time spent: 6.0, average training loss: 0.19075441032648086, validation scores: [MASE: 0.9685789942741394, MSE: 241360.1875, sMAPE: 0.11153364181518555]
+12/13/2024 02:52:44 Epoch 81, time spent: 5.5, average training loss: 0.1782693836092949
+12/13/2024 02:52:50 Epoch 82, time spent: 5.6, average training loss: 0.18058683037757872
+12/13/2024 02:52:55 Epoch 83, time spent: 5.5, average training loss: 0.17774848401546478
+12/13/2024 02:53:01 Epoch 84, time spent: 5.5, average training loss: 0.18706243023276328
+12/13/2024 02:53:07 Epoch 85, time spent: 6.0, average training loss: 0.18639024078845978, validation scores: [MASE: 0.9740427136421204, MSE: 246184.5625, sMAPE: 0.1126282587647438]
+12/13/2024 02:53:12 Epoch 86, time spent: 5.6, average training loss: 0.19015408486127852
+12/13/2024 02:53:18 Epoch 87, time spent: 5.6, average training loss: 0.17276071339845658
+12/13/2024 02:53:24 Epoch 88, time spent: 5.6, average training loss: 0.18032776787877083
+12/13/2024 02:53:29 Epoch 89, time spent: 5.6, average training loss: 0.1840503677725792
+12/13/2024 02:53:35 Epoch 90, time spent: 6.0, average training loss: 0.1836802014708519, validation scores: [MASE: 1.0034621953964233, MSE: 275692.90625, sMAPE: 0.11304447799921036]
+12/13/2024 02:53:41 Epoch 91, time spent: 5.6, average training loss: 0.1703460469841957
+12/13/2024 02:53:46 Epoch 92, time spent: 5.5, average training loss: 0.1853632953763008
+12/13/2024 02:53:52 Epoch 93, time spent: 5.5, average training loss: 0.17463790252804756
+12/13/2024 02:53:57 Epoch 94, time spent: 5.5, average training loss: 0.18064270436763763
+12/13/2024 02:54:03 Epoch 95, time spent: 6.0, average training loss: 0.17504816219210625, validation scores: [MASE: 0.9828519821166992, MSE: 244266.453125, sMAPE: 0.11270918697118759]
+12/13/2024 02:54:09 Epoch 96, time spent: 5.5, average training loss: 0.17355368956923484
+12/13/2024 02:54:14 Epoch 97, time spent: 5.6, average training loss: 0.19192127645015716
+12/13/2024 02:54:20 Epoch 98, time spent: 5.5, average training loss: 0.18130696505308153
+12/13/2024 02:54:26 Epoch 99, time spent: 5.6, average training loss: 0.17213812857866287
+12/13/2024 02:54:32 Epoch 100, time spent: 6.0, average training loss: 0.17246344521641732, validation scores: [MASE: 0.9836152195930481, MSE: 252367.296875, sMAPE: 0.11220622807741165]
+12/13/2024 02:54:32 Done training. Best validation MASE: 0.9685789942741394
