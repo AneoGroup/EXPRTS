@@ -53,3 +53,13 @@ bokeh serve src/ --args experiments/<dataset>/<model>/config.yaml
 ```
 
 # Cite
+You can cite our work using the following BibTeX entry:
+
+```bibtex
+@misc{kjaernli2025exprts,
+      title={EXPRTS: Exploring and Probing the Robustness of Time Series Forecasting Models}, 
+      author={Håkon Hanisch Kjærnli and Lluis Mas-Ribas and Hans Jakob Håland and Vegard Sjåvik and Aida Ashrafi and Helge Langseth and Odd Erik Gundersen},
+      year={2025},
+      journal={arXiv preprint arxiv:2403.03508}
+}
+```
